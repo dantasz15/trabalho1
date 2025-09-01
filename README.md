@@ -1,23 +1,4 @@
-# Códigos Java
-
-Este repositório contém uma coleção de códigos Java, organizados por categorias de exercícios e conceitos.
-
-## Estrutura do Projeto
-
-Os arquivos `.java` estão localizados no diretório `src/`.
-
-## Como Usar
-
-Para compilar e executar os códigos, navegue até o diretório específico da categoria dentro de `src/` e utilize os comandos `javac` e `java`.
-
-Exemplo:
-
-```bash
-cd src/ExerciciosMain/
-javac Exercicio1Main.java
-java Exercicio1Main
-```
-
+Tabalho1
 
 
 Os arquivos estão organizados da seguinte forma:
