@@ -1,0 +1,13 @@
+*.class
+.classpath
+.project
+.settings/
+bin/
+*.jar/
+bin/
+*.jar
+*.log
+*.bak
+*.swp
+*~
+
