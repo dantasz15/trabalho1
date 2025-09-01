@@ -8,24 +8,24 @@ Os arquivos `.java` estão localizados no diretório `src/`.
 
 ## Como Usar
 
-Para compilar e executar os códigos, navegue até o diretório `src/` e utilize os comandos `javac` e `java`.
+Para compilar e executar os códigos, navegue até o diretório específico da categoria dentro de `src/` e utilize os comandos `javac` e `java`.
 
 Exemplo:
 
 ```bash
-cd src/
-javac NomeDoArquivo.java
-java NomeDoArquivo
+cd src/ExerciciosMain/
+javac Exercicio1Main.java
+java Exercicio1Main
 ```
 
 ## Conteúdo
 
 Os arquivos estão organizados da seguinte forma:
 
-- `Animal.java`, `Cachorro.java`, `Gato.java`, `Leao.java`: Exemplos de herança e polimorfismo.
-- `Veiculo.java`, `Carro.java`, `Moto.java`, `Caminhao.java`: Exemplos de herança e classes abstratas.
-- `Conta.java`, `ContaCorrente.java`, `ContaPoupanca.java`, `ContaSalario.java`: Exemplos de classes e herança.
-- `Ingresso.java`, `IngressoCortesia.java`, `IngressoEstudante.java`, `IngressoVIP.java`: Exemplos de herança e sobrecarga de métodos.
-- `Produto.java`, `ProdutoImportado.java`, `ProdutoNacional.java`, `ProdutoPerecivel.java`: Exemplos de herança e manipulação de datas.
-- `Exercicio1Main.java`, `Exercicio2Main.java`, `Exercicio3Main.java`, `Exercicio4Main.java`, `Exercicio5Main_NovoCenario1.java`: Classes principais para execução dos exercícios.
+- `HerancaPolimorfismo/`: Contém exemplos de herança e polimorfismo.
+- `ClassesAbstratas/`: Contém exemplos de herança e classes abstratas.
+- `Contas/`: Contém exemplos de classes e herança para contas.
+- `Ingressos/`: Contém exemplos de herança e sobrecarga de métodos para ingressos.
+- `Produtos/`: Contém exemplos de herança e manipulação de datas para produtos.
+- `ExerciciosMain/`: Contém as classes principais para execução dos exercícios.
 
